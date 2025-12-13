@@ -1,0 +1,42 @@
+name: AniTrip CI Pipeline
+
+# 觸發條件：當推送到 main 分支，或發起 Pull Request 時
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 步驟 1: 下載你的程式碼
+    - uses: actions/checkout@v3
+
+    # 步驟 2: 設定 Python 環境 (3.9)
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+
+    # 步驟 3: 安裝依賴
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    # 步驟 4: 基礎語法檢查 (Linting)
+    # 這邊使用 flake8 檢查是否有語法錯誤，如果有錯誤 Pipeline 會顯示紅色失敗
+    - name: Lint with flake8
+      run: |
+        pip install flake8
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+
+    # 步驟 5: 測試應用程式是否能啟動 (Smoke Test)
+    - name: Check Streamlit run
+      run: |
+        # 測試是否能成功執行 help 指令，確保 app.py 沒有直接崩潰的錯誤
+        streamlit run app.py --help
