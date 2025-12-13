@@ -1,0 +1,979 @@
+[
+	{
+		"id": "3ik9kj0e",
+		"name": "信濃町歩道橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj0e.jpg?plan=h160",
+		"s": 145,
+		"geo": [
+			35.6796,
+			139.7195
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjew",
+		"name": "LABI新宿東口館前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjew.jpg?plan=h160",
+		"s": 197,
+		"geo": [
+			35.6936,
+			139.7009
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjfp",
+		"name": "蜷川家具店",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjfp.jpg?plan=h160",
+		"s": 448,
+		"geo": [
+			35.8885,
+			140.499
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "mlw8dfms1",
+		"cn": "糸守镇",
+		"name": "立石公園",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/mlw8dfms1-1721923541791.jpg?plan=h160",
+		"ep": null,
+		"s": "",
+		"geo": [
+			36.0541,
+			138.1226
+		]
+	},
+	{
+		"id": "3ik9kji0",
+		"name": "藤ノ木橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kji0.jpg?plan=h160",
+		"ep": null,
+		"s": 462,
+		"geo": [
+			35.5201,
+			137.8863
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjdk",
+		"name": "アイSHOP 石堂店",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjdk.jpg?plan=h160",
+		"s": 660,
+		"geo": [
+			30.5466,
+			130.9708
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj7v",
+		"name": "新海三社神社 神楽殿",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj7v.jpg?plan=h160",
+		"s": 872,
+		"geo": [
+			36.1959,
+			138.5121
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj50",
+		"name": "新宿駅南口",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj50.jpg?plan=h160",
+		"s": 1201,
+		"geo": [
+			35.6892,
+			139.7006
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj6d",
+		"name": "新宿駅南口歩道橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj6d.jpg?plan=h160",
+		"s": 1205,
+		"geo": [
+			35.689,
+			139.6999
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiwd",
+		"name": "YUNIKA VISION",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiwd.jpg?plan=h160",
+		"s": 1215,
+		"geo": [
+			35.6938,
+			139.7002
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjf5",
+		"name": "Ladurée新宿店前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjf5.jpg?plan=h160",
+		"s": 1222,
+		"geo": [
+			35.6893,
+			139.7008
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjmm",
+		"name": "基町高校",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjmm.jpg?plan=h160",
+		"s": 1271,
+		"geo": [
+			34.404,
+			132.4597
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjly",
+		"name": "Café La Boheme新宿御苑",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjly.jpg?plan=h160",
+		"s": 1378,
+		"geo": [
+			35.6874,
+			139.7127
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "igqhj1y2x",
+		"name": "日枝神社",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/igqhj1y2x-1710234703037.jpg?plan=h160",
+		"ep": null,
+		"s": 1794,
+		"geo": [
+			36.1332,
+			137.2615
+		]
+	},
+	{
+		"id": "3ik9kj20",
+		"name": "新宿警察署裏交差点",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj20.jpg?plan=h160",
+		"s": 1801,
+		"geo": [
+			35.6926,
+			139.6939
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjkg",
+		"name": "瀧の自宅付近",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjkg.jpg?plan=h160",
+		"s": 1827,
+		"geo": [
+			35.6816,
+			139.7259
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjlm",
+		"name": "四ツ谷駅赤坂口広場前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjlm.jpg?plan=h160",
+		"s": 1831,
+		"geo": [
+			35.6853,
+			139.7297
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjfc",
+		"name": "Starbucks SHIBUYA TSUTAYA店",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjfc.jpg?plan=h160",
+		"s": 1935,
+		"geo": [
+			35.6597,
+			139.7004
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjek",
+		"name": "四ツ谷駅遠景",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjek.jpg?plan=h160",
+		"s": 2296,
+		"geo": [
+			35.681,
+			139.7317
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj3z",
+		"name": "四ツ谷駅赤坂口",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj3z.jpg?plan=h160",
+		"s": 2308,
+		"geo": [
+			35.6853,
+			139.7301
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj7l",
+		"name": "六本木ヒルズ展望台",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj7l.jpg?plan=h160",
+		"s": 2353,
+		"geo": [
+			35.6604,
+			139.7292
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjcj",
+		"name": "国立新美術館",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjcj.jpg?plan=h160",
+		"s": 2360,
+		"geo": [
+			35.6652,
+			139.7262
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjbk",
+		"name": "六本木ヒルズ",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjbk.jpg?plan=h160",
+		"s": 2429,
+		"geo": [
+			35.6628,
+			139.7304
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj7p",
+		"name": "道路標識案内板",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj7p.jpg?plan=h160",
+		"s": 2440,
+		"geo": [
+			35.6742,
+			139.7231
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjh1",
+		"name": "首都高出口信号機",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjh1.jpg?plan=h160",
+		"s": 2475,
+		"geo": [
+			35.6788,
+			139.7199
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kizz",
+		"name": "信濃町歩道橋からの遠景",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kizz.jpg?plan=h160",
+		"s": 2477,
+		"geo": [
+			35.6794,
+			139.7197
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjeo",
+		"name": "信濃町駅前ドコモタワー遠景",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjeo.jpg?plan=h160",
+		"s": 2479,
+		"geo": [
+			35.6797,
+			139.7197
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj5n",
+		"name": "明治神宮外苑",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj5n.jpg?plan=h160",
+		"s": 2725,
+		"geo": [
+			35.675,
+			139.7195
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kixn",
+		"name": "渋谷駅西口歩道橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kixn.jpg?plan=h160",
+		"s": 2729,
+		"geo": [
+			35.6571,
+			139.7006
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjlq",
+		"name": "東京駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjlq.jpg?plan=h160",
+		"s": 2770,
+		"geo": [
+			35.681,
+			139.7641
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kja4",
+		"name": "名古屋駅北通路 10·11番線入口",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kja4.jpg?plan=h160",
+		"s": 2834,
+		"geo": [
+			35.1708,
+			136.8815
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjb0",
+		"name": "名古屋駅11番線",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjb0.jpg?plan=h160",
+		"s": 2837,
+		"geo": [
+			35.1711,
+			136.8814
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjfi",
+		"name": "飛騨古川駅西北側跨線橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjfi.jpg?plan=h160",
+		"s": 2850,
+		"geo": [
+			36.2372,
+			137.1889
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjaa",
+		"name": "飛騨古川駅構内跨線橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjaa.jpg?plan=h160",
+		"s": 2855,
+		"geo": [
+			36.2367,
+			137.1898
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjli",
+		"name": "飛騨古川駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjli.jpg?plan=h160",
+		"s": 2863,
+		"geo": [
+			36.2366,
+			137.1896
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj2o",
+		"name": "飛騨古川駅タクシーロータリー",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj2o.jpg?plan=h160",
+		"s": 2871,
+		"geo": [
+			36.2367,
+			137.1893
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiyj",
+		"name": "氣多若宮神社参道",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiyj.jpg?plan=h160",
+		"s": 2754,
+		"geo": [
+			36.2391,
+			137.196
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "6dniv2e2d",
+		"cn": "车站地图",
+		"name": "JR龍瑠駅",
+		"image": "https://image.anitabi.cn/points/160209/6dniv2e2d_1726826529321_c16v9.jpg?plan=h160",
+		"ep": null,
+		"s": 2860,
+		"geo": [
+			36.141,
+			137.2513
+		]
+	},
+	{
+		"id": "3ik9kjbn",
+		"name": "古川町",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjbn.jpg?plan=h160",
+		"s": 2876,
+		"geo": [
+			36.2378,
+			137.1969
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj9r",
+		"name": "味処古川",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj9r.jpg?plan=h160",
+		"s": 2885,
+		"geo": [
+			36.2357,
+			137.1852
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjic",
+		"name": "宮川落合のバス停",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjic.jpg?plan=h160",
+		"s": 2898,
+		"geo": [
+			36.3034,
+			137.1124
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kize",
+		"name": "飛騨市図書館",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kize.jpg?plan=h160",
+		"s": 3102,
+		"geo": [
+			36.2376,
+			137.1857
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "oyotcvqsl",
+		"cn": "飞驒市图书馆",
+		"name": "飞驒市图书馆",
+		"image": "https://image.anitabi.cn/user/2111/bangumi/160209/points/oyotcvqsl-1728568419973.jpg?plan=h160",
+		"ep": null,
+		"s": 3119,
+		"geo": [
+			36.238,
+			137.1855
+		],
+		"origin": "Anitabi@双叶理央",
+		"originURL": "https://anitabi.cn/"
+	},
+	{
+		"id": "3ik9kjid",
+		"name": "民宿奥大井",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjid.jpg?plan=h160",
+		"ep": null,
+		"s": 3181,
+		"geo": [
+			35.1516,
+			138.1462
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjnm",
+		"name": "前田南駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjnm.jpg?plan=h160",
+		"s": 4364,
+		"geo": [
+			40.0506,
+			140.4024
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiwz",
+		"name": "表参道",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiwz.jpg?plan=h160",
+		"s": 4418,
+		"geo": [
+			35.6656,
+			139.7119
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj0a",
+		"name": "須賀神社男坂",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj0a.jpg?plan=h160",
+		"s": 4447,
+		"geo": [
+			35.6851,
+			139.7233
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiw5",
+		"name": "代々木駅 三葉ベンチ",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiw5.jpg?plan=h160",
+		"s": 4462,
+		"geo": [
+			35.6849,
+			139.7019
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjbs",
+		"name": "朝日橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjbs.jpg?plan=h160",
+		"s": 4554,
+		"geo": [
+			35.6815,
+			139.7261
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj9a",
+		"name": "四ツ谷駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj9a.jpg?plan=h160",
+		"s": 4566,
+		"geo": [
+			35.6866,
+			139.7311
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiwl",
+		"name": "かつらぎ町役場",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiwl.jpg?plan=h160",
+		"ep": null,
+		"s": 5074,
+		"geo": [
+			34.2967,
+			135.5036
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjg2",
+		"name": "新宿大ガード西",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjg2.jpg?plan=h160",
+		"s": 5297,
+		"geo": [
+			35.6938,
+			139.6991
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj1d",
+		"name": "代々木駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj1d.jpg?plan=h160",
+		"s": 5581,
+		"geo": [
+			35.6839,
+			139.702
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjei",
+		"name": "弁慶橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjei.jpg?plan=h160",
+		"s": 5670,
+		"geo": [
+			35.679,
+			139.7363
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj8y",
+		"name": "赤坂見附交差点北",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj8y.jpg?plan=h160",
+		"s": 5675,
+		"geo": [
+			35.6786,
+			139.7364
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjbc",
+		"name": "東急プラザ赤坂前歩道橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjbc.jpg?plan=h160",
+		"s": 5682,
+		"geo": [
+			35.6776,
+			139.737
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj3i",
+		"name": "東急プラザ赤坂前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj3i.jpg?plan=h160",
+		"s": 5684,
+		"geo": [
+			35.6779,
+			139.737
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjn5",
+		"name": "首都高高架下",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjn5.jpg?plan=h160",
+		"s": 5687,
+		"geo": [
+			35.6793,
+			139.7327
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjgm",
+		"name": "弁慶橋からの遠景",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjgm.jpg?plan=h160",
+		"s": 5710,
+		"geo": [
+			35.6788,
+			139.7361
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj0l",
+		"name": "紀之国坂交差点",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj0l.jpg?plan=h160",
+		"s": 5720,
+		"geo": [
+			35.6808,
+			139.7315
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj25",
+		"name": "Starbucks新宿サザンテラス店 前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj25.jpg?plan=h160",
+		"s": 5786,
+		"geo": [
+			35.6882,
+			139.7002
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjgi",
+		"name": "新都心歩道橋遠景",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjgi.jpg?plan=h160",
+		"s": 5826,
+		"geo": [
+			35.6936,
+			139.6977
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjix",
+		"name": "新都心歩道橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjix.jpg?plan=h160",
+		"s": 5840,
+		"geo": [
+			35.6933,
+			139.6973
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjb8",
+		"name": "北参道駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjb8.jpg?plan=h160",
+		"s": 5944,
+		"geo": [
+			35.6789,
+			139.705
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj5p",
+		"name": "千駄ヶ谷駅",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj5p.jpg?plan=h160",
+		"s": 5972,
+		"geo": [
+			35.6809,
+			139.711
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjcb",
+		"name": "新宿LUMINE2前",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjcb.jpg?plan=h160",
+		"s": 5975,
+		"geo": [
+			35.6893,
+			139.7011
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjj8",
+		"name": "信濃町駅前交差点",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjj8.jpg?plan=h160",
+		"s": 5979,
+		"geo": [
+			35.6802,
+			139.7194
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjai",
+		"name": "円通寺坂",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjai.jpg?plan=h160",
+		"s": 5982,
+		"geo": [
+			35.6873,
+			139.7227
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiyi",
+		"name": "須賀神社入口",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiyi.jpg?plan=h160",
+		"s": 5984,
+		"geo": [
+			35.6857,
+			139.7238
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kiws",
+		"name": "四谷二丁目交差点南",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kiws.jpg?plan=h160",
+		"s": 5988,
+		"geo": [
+			35.6872,
+			139.7248
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjl1",
+		"name": "円通寺坂ポスト",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjl1.jpg?plan=h160",
+		"s": 5988,
+		"geo": [
+			35.6865,
+			139.7225
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj2f",
+		"name": "東福院坂",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj2f.jpg?plan=h160",
+		"s": 5989,
+		"geo": [
+			35.686,
+			139.724
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj2l",
+		"name": "四谷見附橋",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj2l.jpg?plan=h160",
+		"s": 5988,
+		"geo": [
+			35.6855,
+			139.7304
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjax",
+		"name": "四谷四丁目交差点",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kjax.jpg?plan=h160",
+		"s": 5990,
+		"geo": [
+			35.6877,
+			139.7159
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kjf9",
+		"name": "松原湖、大月湖",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/3ik9kjf9-1727713899280.jpg?plan=h160",
+		"ep": null,
+		"s": 5510,
+		"geo": [
+			36.0524,
+			138.4557
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "3ik9kj22",
+		"name": "須賀神社男坂上",
+		"image": "https://image.anitabi.cn/points/160209/3ik9kj22.jpg?plan=h160",
+		"ep": null,
+		"s": 6018,
+		"geo": [
+			35.685,
+			139.7233
+		],
+		"origin": "@nekoumi",
+		"originLink": "https://www.google.com/maps/d/viewer?mid=1x6VZkTtu6d0FLZV_i_MFBYhwqYY"
+	},
+	{
+		"id": "s2ov98ga7",
+		"cn": "NTT都科摩代代木大厦",
+		"name": "NTT​ドコモ​代々木​ビル",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/s2ov98ga7-1737345398222.jpg?plan=h160",
+		"ep": null,
+		"geo": [
+			35.6843,
+			139.7031
+		]
+	},
+	{
+		"id": "2wza4k3",
+		"cn": "泷 的家",
+		"name": "離宮ハイム",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/2wza4k3-1753358199451.jpg?plan=h160",
+		"ep": null,
+		"geo": [
+			35.6819,
+			139.726
+		]
+	},
+	{
+		"id": "oswv2pmim",
+		"cn": "上諏訪変電所",
+		"name": "上諏訪変電所",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/oswv2pmim-1728115790646.jpg?plan=h160",
+		"ep": null,
+		"s": "",
+		"geo": [
+			36.0476,
+			138.1203
+		]
+	},
+	{
+		"id": "p400zwhda",
+		"cn": "有与真实世界位置关联的糸守湖圆心",
+		"name": "36°20'43.3\"N 137°15'08.0\"E",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/p400zwhda-1728984672718.jpg?plan=h160",
+		"ep": null,
+		"s": "",
+		"geo": [
+			36.3443,
+			137.2522
+		]
+	},
+	{
+		"id": "35bcdwd",
+		"name": "首都高速4号新宿線高架下",
+		"image": "https://image.anitabi.cn/user/0/bangumi/160209/points/35bcdwd-1753862140677.jpg?plan=h160",
+		"ep": null,
+		"s": 5694,
+		"geo": [
+			35.6789,
+			139.733
+		],
+		"origin": "ckrito",
+		"originLink": "https://www.google.com/maps/d/edit?mid=1_lGB-sWlsYob0oTfYjg0R81vBa4FNj8&usp=sharing"
+	}
+]
