@@ -568,7 +568,7 @@ class AnitabiApp(ctk.CTk):
                 except: pil = None
             if pil:
                 w_disp = 280
-                # 這裡不需要 strict ratio，只要維持原圖比例縮放即可
+                # 只要維持原圖比例縮放即可
                 ratio = w_disp / pil.width
                 h_disp = int(pil.height * ratio)
                 pil_resized = pil.resize((w_disp, h_disp), Image.LANCZOS)
@@ -579,7 +579,7 @@ class AnitabiApp(ctk.CTk):
         threading.Thread(target=load_image_smartly).start()
 
     # ==========================================
-    # 🌑 打卡 Overlay (🔥【最終修正】所見即所得：嚴格 45/30/25 比例)
+    # 🌑 打卡 Overlay 
     # ==========================================
     def open_overlay(self, scene):
         top = ctk.CTkToplevel(self)
@@ -649,7 +649,7 @@ class AnitabiApp(ctk.CTk):
         user_lbl.bind("<Button-1>", _select_photo)
 
         # --- 2. 存檔部分 (Logic) ---
-        # 必須完全依照上面的 h1, h2, h3 比例來繪製
+
         def _save_and_close():
             if not self.user_upload_pil: return
             try:
