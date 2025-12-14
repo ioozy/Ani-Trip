@@ -1,30 +1,34 @@
 ### ⛩️ AniTrip - 君の名は。 (Your Name. ) ###
 
 AniTrip 是一款專為動漫迷打造的沉浸式桌面應用程式。
+
 本專案以新海誠電影《你的名字。》為主題，整合了地圖導覽、打卡護照與拍立得卡片生成功能，讓使用者能紀錄並創造屬於自己的次元回憶。
 
 ## ✨ 核心功能 (Features) ##
 
 # 🔍 沉浸式探索 (Feed) #
 
-．採用瀑布流卡片設計，瀏覽電影中的經典場景。
-．非同步圖片加載 (Async Loader)：確保介面流暢，不會因為下載圖片而卡頓。
-．智慧分群 (Clustering)：自動根據地理位置將景點分類（如：新宿站周邊、飛驒市等）。
+- 採用瀑布流卡片設計，瀏覽電影中的經典場景。
+- 非同步圖片加載 (Async Loader)：確保介面流暢，不會因為下載圖片而卡頓。
+- 智慧分群 (Clustering)：自動根據地理位置將景點分類（如：新宿站周邊、飛驒市等）。
 
 # 🗺️ 互動地圖 (Interactive Map) #
 
-．整合 tkintermapview，在地圖上視覺化顯示所有動漫景點。
-．動態標記：已打卡與未打卡的景點顯示不同顏色的圖釘。
+- 整合 tkintermapview，在地圖上視覺化顯示所有動漫景點。
+
+- 動態標記：已打卡與未打卡的景點顯示不同顏色的圖釘。
 
 # 📸 拍立得卡片製作 (Scene Card Creator) #
 
-．一鍵合成打卡照：上傳照片後，自動與電影劇照合成。
-．智慧排版：依照比例 (45:30:25) 自動生成包含地點、時間、片名的精美紀念卡。
+- 一鍵合成打卡照：上傳照片後，自動與電影劇照合成。
+
+- 智慧排版：依照比例 (45:30:25) 自動生成包含地點、時間、片名的精美紀念卡。
 
 # 📘 打卡護照 (Passport System) #
 
-．紀錄打卡進度與收集成就。
-．視覺化展示已收集的拍立得回憶牆。
+- 紀錄打卡進度與收集成就。
+
+- 視覺化展示已收集的拍立得回憶牆。
 
 ## 🏗️ 系統架構與流程 (Architecture Pipeline) ##
 
@@ -93,36 +97,44 @@ Ani-Trip/
 
 1. 安裝依賴
 
-確保你的電腦已安裝 Python 3.10 以上版本，並執行：
+- 確保你的電腦已安裝 Python 3.10 以上版本，並執行：
 
 pip install -r requirements.txt
 
 
 2. 啟動程式
 
-在終端機輸入：
+- 在終端機輸入：
 
 python main.py
 
 
 ## 🛠️ Tech Stack ##
 
-．Language: Python
-．GUI Framework: CustomTkinter (現代化 UI 風格)
-．Data Processing: Pandas (高效資料篩選與處理)
-．Image Processing: Pillow (PIL) (影像濾鏡、裁切、合成)
-．Map Integration: TkinterMapView (Tile-based 地圖顯示)
-．Concurrency: concurrent.futures (多執行緒圖片載入)
+- Language: Python
+
+- GUI Framework: CustomTkinter (現代化 UI 風格)
+
+- Data Processing: Pandas (高效資料篩選與處理)
+
+- Image Processing: Pillow (PIL) (影像濾鏡、裁切、合成)
+
+- Map Integration: TkinterMapView (Tile-based 地圖顯示)
+
+- Concurrency: concurrent.futures (多執行緒圖片載入)
 
 ## 📊 資料來源 (Data Sources) ##
 
 本專案之聖地巡禮數據與地圖資訊參考自以下開源專案：
 
-．核心 API 資料：Anitabi.cn Document，使用其提供之電影《你的名字。》取景地資料庫。
-．地圖參考：Anitabi 聖地巡禮地圖
+* 核心 API 資料：Anitabi.cn Document，使用其提供之電影《你的名字。》取景地資料庫。
+
+* 地圖參考：Anitabi 聖地巡禮地圖
 
 ## 🤝 貢獻與版權 ##
 
-．本專案僅作學習與交流使用。
-．電影《你的名字。》相關圖片版權歸屬 CoMix Wave Films 所有。
-．地圖資料來源：OpenStreetMap。
+* 本專案僅作學習與交流使用。
+
+* 電影《你的名字。》相關圖片版權歸屬 CoMix Wave Films 所有。
+
+* 地圖資料來源：OpenStreetMap。
