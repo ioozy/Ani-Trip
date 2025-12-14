@@ -29,26 +29,26 @@ AniTrip 是一款專為動漫迷打造的沉浸式桌面應用程式。本專案
     classDef logic fill:#475569,stroke:#fff,stroke-width:2px,color:#fff;
     classDef data fill:#10B981,stroke:#fff,stroke-width:2px,color:#fff;
 
-    subgraph User_Interaction [使用者互動層]
-        UI[“🖥️ AnitabiApp (GUI Main)”]:::ui
+    subgraph User_Interaction [“使用者互動層”]
+        UI[“AnitabiApp (GUI Main)”]:::ui
     end
 
-    subgraph Core_Logic [核心邏輯層]
+    subgraph Core_Logic [“核心邏輯層”]
         direction TB
-        AL[“🚀 AsyncImageLoader”]:::logic
-        IG[“🎨 ImageGenerator”]:::logic
-        MapWidget[“🗺️ Map View”]:::logic
+        AL[“AsyncImageLoader”]:::logic
+        IG[“ImageGenerator”]:::logic
+        MapWidget[“Map View”]:::logic
     end
 
-    subgraph Data_Management [資料管理層]
-        DM[“📊 DataManager”]:::data
-        PM[“💾 PassportManager”]:::data
+    subgraph Data_Management [“資料管理層”]
+        DM[“DataManager”]:::data
+        PM[“PassportManager”]:::data
     end
 
-    subgraph Storage [持久化儲存]
+    subgraph Storage [“持久化儲存”]
         JSON_S[“(你的名字.json)”]
         JSON_U[“(visited.json)”]
-        IMG_Dir[“📂 my_trip_memories/”]
+        IMG_Dir[“my_trip_memories/”]
     end
 
     %% 關係連線
@@ -59,7 +59,7 @@ AniTrip 是一款專為動漫迷打造的沉浸式桌面應用程式。本專案
     PM <-->|讀寫使用者紀錄| JSON_U
     
     UI -->|3. 顯示圖片| AL
-    AL -->|非同步下載| Web((“🌐 Internet”))
+    AL -->|非同步下載| Web((“Internet”))
     
     UI -->|4. 開啟地圖| MapWidget
     MapWidget -.->|取得座標| DM
