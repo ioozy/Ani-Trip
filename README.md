@@ -22,7 +22,8 @@ AniTrip 是一款專為動漫迷打造的沉浸式桌面應用程式。本專案
 ## 🏗️ 系統架構與流程 (Architecture Pipeline) ##
 本專案採用模組化設計，各組件職責分明。下圖展示了系統的數據流向與處理邏輯：
 
-graph TD
+'''mermaid
+   graph TD
     %% 定義樣式
     classDef ui fill:#2563EB,stroke:#fff,stroke-width:2px,color:#fff;
     classDef logic fill:#475569,stroke:#fff,stroke-width:2px,color:#fff;
