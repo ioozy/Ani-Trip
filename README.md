@@ -98,17 +98,17 @@ Ani-Trip/
 
 1. 安裝依賴
 
-- 確保你的電腦已安裝 Python 3.10 以上版本，並執行：
-
+確保你的電腦已安裝 Python 3.10 以上版本，並執行：
+```
 pip install -r requirements.txt
-
+```
 
 2. 啟動程式
 
-- 在終端機輸入：
-
+在終端機輸入：
+```
 python main.py
-
+```
 
 ## 🛠️ Tech Stack ##
 
